@@ -6,11 +6,6 @@ function theBeatlesPlay(musicians, instruments){
   return array
 }
 
-//loops over the array of musicians
-//first time through the loop, you should create a string using
-//the first index of the musicians array and
-//the first index of the instruments array "John Lennon plays guitar"
-//string should be added to the empty array you created
 function johnLennonFacts(fact){
   const facts = []
   var i = 0
